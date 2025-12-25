@@ -1,4 +1,4 @@
-# Fluid Simulation System
+# FDH NKU CG 2025 仿真部分课程代码 Fluid Simulation System
 
 # 环境配置
 
